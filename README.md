@@ -40,7 +40,6 @@ See [MrChromebox's Firmware Utility Script](https://mrchromebox.tech/#fwscript) 
 	- Note 2: you can also run the script while booted into your alternate OS!
 3. Run the script!
 	- Run `bash <(curl https://raw.githubusercontent.com/chrultrabook/crap/master/crap)`
-	- URL shortened version: `bash <(curl -L https://tinyurl.com/crap-cb-01)`
 4. The script will walk you through the steps to make room for an alternate OS.
 
 ## Screenshots
